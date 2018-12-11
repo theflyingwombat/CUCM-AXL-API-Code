@@ -1,0 +1,218 @@
+
+Python - Get Line.py:7
+{
+    'return': {
+        'line': {
+            'pattern': '\\+05555531802',
+            'description': 'Test Lab',
+            'usage': 'Device',
+            'routePartitionName': {
+                '_value_1': 'PT-OnNet',
+                'uuid': '{7286B831-AAAA-45E7-AAAA-CAD0E38D27BD}'
+            },
+            'aarNeighborhoodName': {
+                '_value_1': None,
+                'uuid': None
+            },
+            'aarDestinationMask': None,
+            'aarKeepCallHistory': 'true',
+            'aarVoiceMailEnabled': 'false',
+            'callForwardAll': {
+                'forwardToVoiceMail': 'false',
+                'callingSearchSpaceName': {
+                    '_value_1': None,
+                    'uuid': ''
+                },
+                'secondaryCallingSearchSpaceName': {
+                    '_value_1': None,
+                    'uuid': ''
+                },
+                'destination': None
+            },
+            'callForwardBusy': {
+                'forwardToVoiceMail': 'false',
+                'callingSearchSpaceName': {
+                    '_value_1': None,
+                    'uuid': ''
+                },
+                'destination': None
+            },
+            'callForwardBusyInt': {
+                'forwardToVoiceMail': 'false',
+                'callingSearchSpaceName': {
+                    '_value_1': None,
+                    'uuid': ''
+                },
+                'destination': None
+            },
+            'callForwardNoAnswer': {
+                'forwardToVoiceMail': 'false',
+                'callingSearchSpaceName': {
+                    '_value_1': None,
+                    'uuid': ''
+                },
+                'destination': None,
+                'duration': None
+            },
+            'callForwardNoAnswerInt': {
+                'forwardToVoiceMail': 'false',
+                'callingSearchSpaceName': {
+                    '_value_1': None,
+                    'uuid': ''
+                },
+                'destination': None,
+                'duration': None
+            },
+            'callForwardNoCoverage': {
+                'forwardToVoiceMail': 'false',
+                'callingSearchSpaceName': {
+                    '_value_1': None,
+                    'uuid': ''
+                },
+                'destination': None
+            },
+            'callForwardNoCoverageInt': {
+                'forwardToVoiceMail': 'false',
+                'callingSearchSpaceName': {
+                    '_value_1': None,
+                    'uuid': ''
+                },
+                'destination': None
+            },
+            'callForwardOnFailure': {
+                'forwardToVoiceMail': 'false',
+                'callingSearchSpaceName': {
+                    '_value_1': None,
+                    'uuid': ''
+                },
+                'destination': None
+            },
+            'callForwardAlternateParty': {
+                'forwardToVoiceMail': None,
+                'callingSearchSpaceName': {
+                    '_value_1': None,
+                    'uuid': ''
+                },
+                'destination': None,
+                'duration': None
+            },
+            'callForwardNotRegistered': {
+                'forwardToVoiceMail': 'false',
+                'callingSearchSpaceName': {
+                    '_value_1': None,
+                    'uuid': ''
+                },
+                'destination': None
+            },
+            'callForwardNotRegisteredInt': {
+                'forwardToVoiceMail': 'false',
+                'callingSearchSpaceName': {
+                    '_value_1': None,
+                    'uuid': ''
+                },
+                'destination': None
+            },
+            'callPickupGroupName': {
+                '_value_1': None,
+                'uuid': ''
+            },
+            'autoAnswer': 'Auto Answer Off',
+            'networkHoldMohAudioSourceId': None,
+            'userHoldMohAudioSourceId': None,
+            'alertingName': 'Test Lab',
+            'asciiAlertingName': 'Test Lab',
+            'presenceGroupName': {
+                '_value_1': 'Standard Presence group',
+                'uuid': '{AD243D17-AAAA-4118-AAAA-5FF2E1B781AC}'
+            },
+            'shareLineAppearanceCssName': {
+                '_value_1': 'lCSS-LongDistance',
+                'uuid': '{F228CAF0-AAAA-1ACB-AAAA-01AE54ACE9F0}'
+            },
+            'voiceMailProfileName': {
+                '_value_1': None,
+                'uuid': None
+            },
+            'patternPrecedence': 'Default',
+            'releaseClause': 'No Error',
+            'hrDuration': None,
+            'hrInterval': None,
+            'cfaCssPolicy': 'Use System Default',
+            'defaultActivatedDeviceName': {
+                '_value_1': None,
+                'uuid': None
+            },
+            'parkMonForwardNoRetrieveDn': None,
+            'parkMonForwardNoRetrieveIntDn': None,
+            'parkMonForwardNoRetrieveVmEnabled': 'false',
+            'parkMonForwardNoRetrieveIntVmEnabled': 'false',
+            'parkMonForwardNoRetrieveCssName': {
+                '_value_1': None,
+                'uuid': None
+            },
+            'parkMonForwardNoRetrieveIntCssName': {
+                '_value_1': None,
+                'uuid': None
+            },
+            'parkMonReversionTimer': None,
+            'partyEntranceTone': 'Default',
+            'directoryURIs': {
+                'directoryUri': [
+                    {
+                        'isPrimary': 't',
+                        'uri': 'username@domain.com',
+                        'partition': {
+                            '_value_1': 'Directory URI',
+                            'uuid': None
+                        },
+                        'advertiseGloballyViaIls': 't',
+                        'uuid': None
+                    }
+                ]
+            },
+            'allowCtiControlFlag': 'true',
+            'rejectAnonymousCall': 'false',
+            'patternUrgency': 'false',
+            'confidentialAccess': {
+                'confidentialAccessMode': None,
+                'confidentialAccessLevel': -1
+            },
+            'externalCallControlProfile': {
+                '_value_1': None,
+                'uuid': None
+            },
+            'enterpriseAltNum': {
+                'numMask': None,
+                'isUrgent': 'f',
+                'addLocalRoutePartition': 'f',
+                'routePartition': {
+                    '_value_1': None,
+                    'uuid': None
+                },
+                'advertiseGloballyIls': 'f'
+            },
+            'e164AltNum': {
+                'numMask': None,
+                'isUrgent': 'f',
+                'addLocalRoutePartition': 'f',
+                'routePartition': {
+                    '_value_1': None,
+                    'uuid': None
+                },
+                'advertiseGloballyIls': 'f'
+            },
+            'pstnFailover': None,
+            'callControlAgentProfile': None,
+            'associatedDevices': {
+                'device': [
+                    'SEP84B517AF7AA4'
+                ]
+            },
+            'useEnterpriseAltNum': 'false',
+            'useE164AltNum': 'false',
+            'active': 'true',
+            'uuid': '{8AF893A6-AAAA-E141-AAAA-A351DD018E8F}'
+        }
+    },
+    'sequence': None
+}
