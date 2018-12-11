@@ -1,0 +1,49 @@
+{
+    'return': {
+        'line': [
+            {
+                'pattern': '\\+05555531802',
+                'description': 'User1 - 1802',
+                'usage': 'Device',
+                'routePartitionName': None,
+                'aarNeighborhoodName': None,
+                'aarDestinationMask': None,
+                'aarKeepCallHistory': None,
+                'aarVoiceMailEnabled': None,
+                'callPickupGroupName': None,
+                'autoAnswer': None,
+                'networkHoldMohAudioSourceId': None,
+                'userHoldMohAudioSourceId': None,
+                'alertingName': None,
+                'asciiAlertingName': None,
+                'presenceGroupName': None,
+                'shareLineAppearanceCssName': None,
+                'voiceMailProfileName': None,
+                'patternPrecedence': None,
+                'releaseClause': None,
+                'hrDuration': None,
+                'hrInterval': None,
+                'cfaCssPolicy': None,
+                'defaultActivatedDeviceName': None,
+                'parkMonForwardNoRetrieveDn': None,
+                'parkMonForwardNoRetrieveIntDn': None,
+                'parkMonForwardNoRetrieveVmEnabled': None,
+                'parkMonForwardNoRetrieveIntVmEnabled': None,
+                'parkMonForwardNoRetrieveCssName': None,
+                'parkMonForwardNoRetrieveIntCssName': None,
+                'parkMonReversionTimer': None,
+                'partyEntranceTone': None,
+                'allowCtiControlFlag': None,
+                'rejectAnonymousCall': None,
+                'confidentialAccess': None,
+                'externalCallControlProfile': None,
+                'enterpriseAltNum': None,
+                'e164AltNum': None,
+                'pstnFailover': None,
+                'associatedDevices': None,
+                'uuid': '{94E65BEF-1691-AAAA-9EB9-C4E5B396B731}'
+            }
+        ]
+    },
+    'sequence': None
+}
