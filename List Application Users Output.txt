@@ -1,0 +1,33 @@
+{
+    'return': {
+        'appUser': [
+            {
+                'userid': 'ApplicationUser1',
+                'presenceGroupName': {
+                    '_value_1': 'Standard Presence group',
+                    'uuid': '{AD243D17-AAA-4118-8FEB-5FF2E1B781AC}'
+                },
+                'acceptPresenceSubscription': 'false',
+                'acceptOutOfDialogRefer': 'false',
+                'acceptUnsolicitedNotification': 'false',
+                'allowReplaceHeader': 'false',
+                'isStandard': 'true',
+                'uuid': '{06BAE444-AAA-34BC-042E90AD941B}'
+            },
+            {
+                'userid': 'ApplicationUser2',
+                'presenceGroupName': {
+                    '_value_1': 'Standard Presence group',
+                    'uuid': '{AD243D17-AAA-4118-8FEB-5FF2E1B781AC}'
+                },
+                'acceptPresenceSubscription': 'false',
+                'acceptOutOfDialogRefer': 'false',
+                'acceptUnsolicitedNotification': 'false',
+                'allowReplaceHeader': 'false',
+                'isStandard': 'true',
+                'uuid': '{FFD322CD-AAA-48CE-6D9475E3547E}'
+            }
+        ]
+    },
+    'sequence': None
+}
