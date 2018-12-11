@@ -1,5 +1,3 @@
-
-Python - Get Line.py:7
 {
     'return': {
         'line': {
