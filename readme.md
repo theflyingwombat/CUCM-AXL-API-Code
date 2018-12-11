@@ -9,8 +9,8 @@ AXL Schema Reference Guide:
 AXL WSDL Download Link:
 [https://developer.cisco.com/docs/axl/#!download-the-axl-wsdl/download-the-axl-wsdl](https://developer.cisco.com/docs/axl/#!download-the-axl-wsdl/download-the-axl-wsdl])
 
-Python Modules that will be needed:
--Zeep:
+Python Modules that will be needed
+-Zeep
 --[https://python-zeep.readthedocs.io/en/master/](https://python-zeep.readthedocs.io/en/master/)
 --`pip install lxml==4.2.5 zeep`
 
